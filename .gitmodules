@@ -1,3 +1,3 @@
-[submodule "raphael-pachage"]
-	path = raphael-pachage
+[submodule "packages/raphael-example"]
+	path = packages/raphael-example
 	url = https://github.com/2youyou2/ccc.raphael
